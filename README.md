@@ -1,4 +1,4 @@
-Reference READ-ME
+Reference READ-ME (open in code preview for fixed formatting)
 
 Equivalency from Base(10) → Base(52)
 
